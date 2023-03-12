@@ -9,30 +9,89 @@
   font-family: "Roboto", sans-serif;
 }
 
-.logo{
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1,33;
-    color: #2E2F42;
+.logo {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1, 33;
+  color: #2e2f42;
 }
 
-.logo-color{
-    color: #4D5AE5;
+.logo-color {
+  color: #4d5ae5;
 }
 
 .menu-link {
-font-weight: 500;
-font-size: 16px;
-line-height: 1,5;
-letter-spacing: 0.02em;
-color: #2E2F42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1, 5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .menu-link:hover,
 .menu-link:focus {
-    color: #404BBF;
+  color: #404bbf;
 }
 
 .contact-mail {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1, 5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.contact-mail:hover,
+.contact-mail:focus {
+  color: #404bbf;
+}
+
+.contact-phone-number {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1, 5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.contact-phone-number:hover,
+.contact-phone-number:focus {
+  color: #404bbf;
+}
+
+.modal-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1, 5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  background: #4d5ae5;
+  color: #ffffff;
+}
+
+.modal-btn:hover,
+.modal-btn:focus {
+  background: #404bbf;
+  color: #ffffff;
+}
+
+.hero {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1, 07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.privileges {
+  font-weight: 500;
+font-size: 20px;
+line-height: 1,2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.text-main {
 font-weight: 400;
 font-size: 16px;
 line-height: 1,5;
@@ -40,24 +99,49 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.contact-mail:hover,
-.contact-mail:focus {
-    color: #404BBF;
+.section-description {
+  font-weight: 700;
+font-size: 36px;
+line-height: 1,11;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.text-footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1,5;
+  letter-spacing: 0.02em;
+  color: #E7E9FC;
 }
 
-.contact-phone-number {
- font-weight: 400;
+.nav-btn {
+  font-weight: 500;
 font-size: 16px;
 line-height: 1,5;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+color: #4D5AE5;
+background: #F4F4FD;
+}
+.nav-btn:hover,
+.nav-btn:focus {
+  font-weight: 500;
+font-size: 16px;
+line-height: 1,5;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+background: #404BBF;
+cursor: pointer;
+}
+.gallery-items {
+  font-weight: 500;
+font-size: 20px;
+line-height: 1,2;
 letter-spacing: 0.02em;
-color: #434455;
-}
-
-.contact-phone-number:hover,
-.contact-phone-number:focus {
-    color: #404BBF;
-}
-
-.modal-btn {
-    
+color: #2E2F42;
 }
