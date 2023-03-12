@@ -1,0 +1,63 @@
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+
+.body {
+  font-family: "Roboto", sans-serif;
+}
+
+.logo{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1,33;
+    color: #2E2F42;
+}
+
+.logo-color{
+    color: #4D5AE5;
+}
+
+.menu-link {
+font-weight: 500;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.menu-link:hover,
+.menu-link:focus {
+    color: #404BBF;
+}
+
+.contact-mail {
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.contact-mail:hover,
+.contact-mail:focus {
+    color: #404BBF;
+}
+
+.contact-phone-number {
+ font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.contact-phone-number:hover,
+.contact-phone-number:focus {
+    color: #404BBF;
+}
+
+.modal-btn {
+    
+}
