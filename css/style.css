@@ -23,7 +23,7 @@
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: var(--accent-color);
 }
 
 .logo-header {
@@ -161,7 +161,7 @@
   text-transform: capitalize;
   color: var(--accent-color);
 }
-
+/* =================== FOOTER =================== */
 .footer {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -182,7 +182,8 @@
 .logo-footer {
   color: #f4f4fd;
 }
-
+/* =================== /FOOTER =================== */
+/* =================== BTN =================== */
 .nav-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -207,6 +208,7 @@
   color: #ffffff;
   background: #404bbf;
   cursor: pointer;
+  /* =================== /BTN =================== */
 }
 .gallery-items {
   font-weight: 500;
