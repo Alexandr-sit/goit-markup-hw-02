@@ -54,13 +54,8 @@
   color: var(--prymary-text-color);
 }
 
-.contact-mail:hover,
-.contact-mail:focus {
-  color: #404bbf;
-}
-
-.contact-phone-number:hover,
-.contact-phone-number:focus {
+.contact-info:hover,
+.contact-info:focus {
   color: #404bbf;
 }
 .contacts {
